@@ -1,0 +1,7 @@
+C:\Users\Furkan\source\repos\PolymorphismGiris\PolymorphismGiris\bin\Debug\PolymorphismGiris.exe.config
+C:\Users\Furkan\source\repos\PolymorphismGiris\PolymorphismGiris\bin\Debug\PolymorphismGiris.exe
+C:\Users\Furkan\source\repos\PolymorphismGiris\PolymorphismGiris\bin\Debug\PolymorphismGiris.pdb
+C:\Users\Furkan\source\repos\PolymorphismGiris\PolymorphismGiris\obj\Debug\PolymorphismGiris.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\PolymorphismGiris\PolymorphismGiris\obj\Debug\PolymorphismGiris.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\PolymorphismGiris\PolymorphismGiris\obj\Debug\PolymorphismGiris.exe
+C:\Users\Furkan\source\repos\PolymorphismGiris\PolymorphismGiris\obj\Debug\PolymorphismGiris.pdb
