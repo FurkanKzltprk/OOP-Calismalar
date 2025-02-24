@@ -1,0 +1,7 @@
+C:\C#Dersleri\NedenInterfaceKullaniriz\bin\Debug\NedenInterfaceKullaniriz.exe.config
+C:\C#Dersleri\NedenInterfaceKullaniriz\bin\Debug\NedenInterfaceKullaniriz.exe
+C:\C#Dersleri\NedenInterfaceKullaniriz\bin\Debug\NedenInterfaceKullaniriz.pdb
+C:\C#Dersleri\NedenInterfaceKullaniriz\obj\Debug\NedenInterfaceKullaniriz.csprojAssemblyReference.cache
+C:\C#Dersleri\NedenInterfaceKullaniriz\obj\Debug\NedenInterfaceKullaniriz.csproj.CoreCompileInputs.cache
+C:\C#Dersleri\NedenInterfaceKullaniriz\obj\Debug\NedenInterfaceKullaniriz.exe
+C:\C#Dersleri\NedenInterfaceKullaniriz\obj\Debug\NedenInterfaceKullaniriz.pdb
