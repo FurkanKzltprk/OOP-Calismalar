@@ -1,0 +1,7 @@
+C:\Users\Furkan\source\repos\GenericKoleksiyonlarGiris\GenericKoleksiyonlarGiris\bin\Debug\GenericKoleksiyonlarGiris.exe.config
+C:\Users\Furkan\source\repos\GenericKoleksiyonlarGiris\GenericKoleksiyonlarGiris\bin\Debug\GenericKoleksiyonlarGiris.exe
+C:\Users\Furkan\source\repos\GenericKoleksiyonlarGiris\GenericKoleksiyonlarGiris\bin\Debug\GenericKoleksiyonlarGiris.pdb
+C:\Users\Furkan\source\repos\GenericKoleksiyonlarGiris\GenericKoleksiyonlarGiris\obj\Debug\GenericKoleksiyonlarKullanimi.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\GenericKoleksiyonlarGiris\GenericKoleksiyonlarGiris\obj\Debug\GenericKoleksiyonlarKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\GenericKoleksiyonlarGiris\GenericKoleksiyonlarGiris\obj\Debug\GenericKoleksiyonlarGiris.exe
+C:\Users\Furkan\source\repos\GenericKoleksiyonlarGiris\GenericKoleksiyonlarGiris\obj\Debug\GenericKoleksiyonlarGiris.pdb
