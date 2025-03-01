@@ -1,0 +1,7 @@
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders\bin\Debug\NTP-Ders.exe.config
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders\bin\Debug\NTP-Ders.exe
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders\bin\Debug\NTP-Ders.pdb
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders\obj\Debug\NTP-Ders1.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders\obj\Debug\NTP-Ders1.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders\obj\Debug\NTP-Ders.exe
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders\obj\Debug\NTP-Ders.pdb
