@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Furkan\\source\\repos\\NTP-Ders\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68AB6D26-449F-4B21-A256-5F2726492FC7}|NTP-Ders-2\\NTP-Ders2-form.csproj|c:\\users\\furkan\\source\\repos\\ntp-ders\\ntp-ders-2\\frm_toplama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68AB6D26-449F-4B21-A256-5F2726492FC7}|NTP-Ders-2\\NTP-Ders2-form.csproj|solutionrelative:ntp-ders-2\\frm_toplama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2749BF36-0164-4CE8-AA40-D46DCE943536}|NTP-Ders-H5-uyg\\NTP-Ders-H5-uyg.csproj|c:\\users\\furkan\\source\\repos\\ntp-ders\\ntp-ders-h5-uyg\\hali.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2749BF36-0164-4CE8-AA40-D46DCE943536}|NTP-Ders-H5-uyg\\NTP-Ders-H5-uyg.csproj|solutionrelative:ntp-ders-h5-uyg\\hali.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68AB6D26-449F-4B21-A256-5F2726492FC7}|NTP-Ders-2\\NTP-Ders2-form.csproj|c:\\users\\furkan\\source\\repos\\ntp-ders\\ntp-ders-2\\frm_toplama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{68AB6D26-449F-4B21-A256-5F2726492FC7}|NTP-Ders-2\\NTP-Ders2-form.csproj|solutionrelative:ntp-ders-2\\frm_toplama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2749BF36-0164-4CE8-AA40-D46DCE943536}|NTP-Ders-H5-uyg\\NTP-Ders-H5-uyg.csproj|c:\\users\\furkan\\source\\repos\\ntp-ders\\ntp-ders-h5-uyg\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2749BF36-0164-4CE8-AA40-D46DCE943536}|NTP-Ders-H5-uyg\\NTP-Ders-H5-uyg.csproj|solutionrelative:ntp-ders-h5-uyg\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68AB6D26-449F-4B21-A256-5F2726492FC7}|NTP-Ders-2\\NTP-Ders2-form.csproj|c:\\users\\furkan\\source\\repos\\ntp-ders\\ntp-ders-2\\frm_toplama.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68AB6D26-449F-4B21-A256-5F2726492FC7}|NTP-Ders-2\\NTP-Ders2-form.csproj|solutionrelative:ntp-ders-2\\frm_toplama.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68AB6D26-449F-4B21-A256-5F2726492FC7}|NTP-Ders-2\\NTP-Ders2-form.csproj|c:\\users\\furkan\\source\\repos\\ntp-ders\\ntp-ders-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68AB6D26-449F-4B21-A256-5F2726492FC7}|NTP-Ders-2\\NTP-Ders2-form.csproj|solutionrelative:ntp-ders-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2749BF36-0164-4CE8-AA40-D46DCE943536}|NTP-Ders-H5-uyg\\NTP-Ders-H5-uyg.csproj|c:\\users\\furkan\\source\\repos\\ntp-ders\\ntp-ders-h5-uyg\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2749BF36-0164-4CE8-AA40-D46DCE943536}|NTP-Ders-H5-uyg\\NTP-Ders-H5-uyg.csproj|solutionrelative:ntp-ders-h5-uyg\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,54 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Frm_Toplama.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Furkan\\source\\repos\\NTP-Ders\\NTP-Ders-2\\Frm_Toplama.Designer.cs",
-              "RelativeDocumentMoniker": "NTP-Ders-2\\Frm_Toplama.Designer.cs",
-              "ToolTip": "C:\\Users\\Furkan\\source\\repos\\NTP-Ders\\NTP-Ders-2\\Frm_Toplama.Designer.cs",
-              "RelativeToolTip": "NTP-Ders-2\\Frm_Toplama.Designer.cs",
-              "ViewState": "AgIAAHoAAAAAAAAAAAAEwI8AAAAxAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\source\\repos\\NTP-Ders\\NTP-Ders-H5-uyg\\Form2.cs",
+              "RelativeDocumentMoniker": "NTP-Ders-H5-uyg\\Form2.cs",
+              "ToolTip": "C:\\Users\\Furkan\\source\\repos\\NTP-Ders\\NTP-Ders-H5-uyg\\Form2.cs",
+              "RelativeToolTip": "NTP-Ders-H5-uyg\\Form2.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBwAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T08:08:26.999Z",
+              "WhenOpened": "2025-04-04T08:31:52.084Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Frm_Toplama.cs",
-              "DocumentMoniker": "C:\\Users\\Furkan\\source\\repos\\NTP-Ders\\NTP-Ders-2\\Frm_Toplama.cs",
-              "RelativeDocumentMoniker": "NTP-Ders-2\\Frm_Toplama.cs",
-              "ToolTip": "C:\\Users\\Furkan\\source\\repos\\NTP-Ders\\NTP-Ders-2\\Frm_Toplama.cs",
-              "RelativeToolTip": "NTP-Ders-2\\Frm_Toplama.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAwwEsAAABGAAAAAAAAAA==",
+              "Title": "Hali.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\source\\repos\\NTP-Ders\\NTP-Ders-H5-uyg\\Hali.cs",
+              "RelativeDocumentMoniker": "NTP-Ders-H5-uyg\\Hali.cs",
+              "ToolTip": "C:\\Users\\Furkan\\source\\repos\\NTP-Ders\\NTP-Ders-H5-uyg\\Hali.cs",
+              "RelativeToolTip": "NTP-Ders-H5-uyg\\Hali.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T07:32:07.481Z",
+              "WhenOpened": "2025-04-04T08:26:34.779Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Frm_Toplama.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Furkan\\source\\repos\\NTP-Ders\\NTP-Ders-2\\Frm_Toplama.cs",
-              "RelativeDocumentMoniker": "NTP-Ders-2\\Frm_Toplama.cs",
-              "ToolTip": "C:\\Users\\Furkan\\source\\repos\\NTP-Ders\\NTP-Ders-2\\Frm_Toplama.cs [Design]",
-              "RelativeToolTip": "NTP-Ders-2\\Frm_Toplama.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Furkan\\source\\repos\\NTP-Ders\\NTP-Ders-H5-uyg\\Form2.cs",
+              "RelativeDocumentMoniker": "NTP-Ders-H5-uyg\\Form2.cs",
+              "ToolTip": "C:\\Users\\Furkan\\source\\repos\\NTP-Ders\\NTP-Ders-H5-uyg\\Form2.cs [Design]",
+              "RelativeToolTip": "NTP-Ders-H5-uyg\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T07:33:05.478Z",
+              "WhenOpened": "2025-04-04T08:26:25.051Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Furkan\\source\\repos\\NTP-Ders\\NTP-Ders-2\\Program.cs",
-              "RelativeDocumentMoniker": "NTP-Ders-2\\Program.cs",
-              "ToolTip": "C:\\Users\\Furkan\\source\\repos\\NTP-Ders\\NTP-Ders-2\\Program.cs",
-              "RelativeToolTip": "NTP-Ders-2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T07:28:08.453Z",
-              "EditorCaption": ""
             }
           ]
         }

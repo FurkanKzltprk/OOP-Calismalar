@@ -1,0 +1,16 @@
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-H5-Form-ArabaGaleri\bin\Debug\net8.0-windows\NTP-H5-Form-ArabaGaleri.exe
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-H5-Form-ArabaGaleri\bin\Debug\net8.0-windows\NTP-H5-Form-ArabaGaleri.deps.json
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-H5-Form-ArabaGaleri\bin\Debug\net8.0-windows\NTP-H5-Form-ArabaGaleri.runtimeconfig.json
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-H5-Form-ArabaGaleri\bin\Debug\net8.0-windows\NTP-H5-Form-ArabaGaleri.dll
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-H5-Form-ArabaGaleri\bin\Debug\net8.0-windows\NTP-H5-Form-ArabaGaleri.pdb
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-H5-Form-ArabaGaleri\obj\Debug\net8.0-windows\NTP_H5_Form_ArabaGaleri.Form1.resources
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-H5-Form-ArabaGaleri\obj\Debug\net8.0-windows\NTP-H5-Form-ArabaGaleri.csproj.GenerateResource.cache
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-H5-Form-ArabaGaleri\obj\Debug\net8.0-windows\NTP-H5-Form-ArabaGaleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-H5-Form-ArabaGaleri\obj\Debug\net8.0-windows\NTP-H5-Form-ArabaGaleri.AssemblyInfoInputs.cache
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-H5-Form-ArabaGaleri\obj\Debug\net8.0-windows\NTP-H5-Form-ArabaGaleri.AssemblyInfo.cs
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-H5-Form-ArabaGaleri\obj\Debug\net8.0-windows\NTP-H5-Form-ArabaGaleri.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-H5-Form-ArabaGaleri\obj\Debug\net8.0-windows\NTP-H5-Form-ArabaGaleri.dll
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-H5-Form-ArabaGaleri\obj\Debug\net8.0-windows\refint\NTP-H5-Form-ArabaGaleri.dll
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-H5-Form-ArabaGaleri\obj\Debug\net8.0-windows\NTP-H5-Form-ArabaGaleri.pdb
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-H5-Form-ArabaGaleri\obj\Debug\net8.0-windows\NTP-H5-Form-ArabaGaleri.genruntimeconfig.cache
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-H5-Form-ArabaGaleri\obj\Debug\net8.0-windows\ref\NTP-H5-Form-ArabaGaleri.dll

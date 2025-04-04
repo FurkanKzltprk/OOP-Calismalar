@@ -1,0 +1,10 @@
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H5-uyg\bin\Debug\NTP-Ders-H5-uyg.exe.config
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H5-uyg\bin\Debug\NTP-Ders-H5-uyg.exe
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H5-uyg\bin\Debug\NTP-Ders-H5-uyg.pdb
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H5-uyg\obj\Debug\NTP-Ders-H5-uyg.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H5-uyg\obj\Debug\NTP_Ders_H5_uyg.Form1.resources
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H5-uyg\obj\Debug\NTP-Ders-H5-uyg.csproj.GenerateResource.cache
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H5-uyg\obj\Debug\NTP-Ders-H5-uyg.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H5-uyg\obj\Debug\NTP-Ders-H5-uyg.exe
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H5-uyg\obj\Debug\NTP-Ders-H5-uyg.pdb
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H5-uyg\obj\Debug\NTP_Ders_H5_uyg.Form2.resources

@@ -1,0 +1,14 @@
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-DERS-H4-(G)\bin\Debug\net8.0\NTP-DERS-H4-(G).exe
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-DERS-H4-(G)\bin\Debug\net8.0\NTP-DERS-H4-(G).deps.json
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-DERS-H4-(G)\bin\Debug\net8.0\NTP-DERS-H4-(G).runtimeconfig.json
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-DERS-H4-(G)\bin\Debug\net8.0\NTP-DERS-H4-(G).dll
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-DERS-H4-(G)\bin\Debug\net8.0\NTP-DERS-H4-(G).pdb
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-DERS-H4-(G)\obj\Debug\net8.0\NTP-DERS-H4-(G).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-DERS-H4-(G)\obj\Debug\net8.0\NTP-DERS-H4-(G).AssemblyInfoInputs.cache
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-DERS-H4-(G)\obj\Debug\net8.0\NTP-DERS-H4-(G).AssemblyInfo.cs
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-DERS-H4-(G)\obj\Debug\net8.0\NTP-DERS-H4-(G).csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-DERS-H4-(G)\obj\Debug\net8.0\NTP-DERS-H4-(G).dll
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-DERS-H4-(G)\obj\Debug\net8.0\refint\NTP-DERS-H4-(G).dll
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-DERS-H4-(G)\obj\Debug\net8.0\NTP-DERS-H4-(G).pdb
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-DERS-H4-(G)\obj\Debug\net8.0\NTP-DERS-H4-(G).genruntimeconfig.cache
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-DERS-H4-(G)\obj\Debug\net8.0\ref\NTP-DERS-H4-(G).dll

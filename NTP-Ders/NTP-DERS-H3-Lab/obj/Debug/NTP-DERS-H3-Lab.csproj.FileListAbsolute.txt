@@ -1,0 +1,7 @@
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-DERS-H3-Lab\bin\Debug\NTP-DERS-H3-Lab.exe.config
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-DERS-H3-Lab\bin\Debug\NTP-DERS-H3-Lab.exe
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-DERS-H3-Lab\bin\Debug\NTP-DERS-H3-Lab.pdb
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-DERS-H3-Lab\obj\Debug\NTP-DERS-H3-Lab.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-DERS-H3-Lab\obj\Debug\NTP-DERS-H3-Lab.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-DERS-H3-Lab\obj\Debug\NTP-DERS-H3-Lab.exe
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-DERS-H3-Lab\obj\Debug\NTP-DERS-H3-Lab.pdb

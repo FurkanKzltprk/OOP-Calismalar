@@ -1,0 +1,9 @@
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H2\bin\Debug\NTP-Ders-H2.exe.config
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H2\bin\Debug\NTP-Ders-H2.exe
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H2\bin\Debug\NTP-Ders-H2.pdb
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H2\obj\Debug\NTP-Ders-H2.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H2\obj\Debug\NTP-Ders-H2.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H2\obj\Debug\NTP-Ders-H2.exe
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H2\obj\Debug\NTP-Ders-H2.pdb
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H2\obj\Debug\NTP_Ders_H2.Frm_TekCiftHesaplama.resources
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H2\obj\Debug\NTP-Ders-H2.csproj.GenerateResource.cache

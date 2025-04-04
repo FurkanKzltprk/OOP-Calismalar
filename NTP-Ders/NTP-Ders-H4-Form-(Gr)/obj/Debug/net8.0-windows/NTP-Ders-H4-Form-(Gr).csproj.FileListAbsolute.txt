@@ -1,0 +1,16 @@
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H4-Form-(Gr)\bin\Debug\net8.0-windows\NTP-Ders-H4-Form-(Gr).exe
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H4-Form-(Gr)\bin\Debug\net8.0-windows\NTP-Ders-H4-Form-(Gr).deps.json
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H4-Form-(Gr)\bin\Debug\net8.0-windows\NTP-Ders-H4-Form-(Gr).runtimeconfig.json
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H4-Form-(Gr)\bin\Debug\net8.0-windows\NTP-Ders-H4-Form-(Gr).dll
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H4-Form-(Gr)\bin\Debug\net8.0-windows\NTP-Ders-H4-Form-(Gr).pdb
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H4-Form-(Gr)\obj\Debug\net8.0-windows\NTP_Ders_H4_Form__Gr_.Form1.resources
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H4-Form-(Gr)\obj\Debug\net8.0-windows\NTP-Ders-H4-Form-(Gr).csproj.GenerateResource.cache
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H4-Form-(Gr)\obj\Debug\net8.0-windows\NTP-Ders-H4-Form-(Gr).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H4-Form-(Gr)\obj\Debug\net8.0-windows\NTP-Ders-H4-Form-(Gr).AssemblyInfoInputs.cache
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H4-Form-(Gr)\obj\Debug\net8.0-windows\NTP-Ders-H4-Form-(Gr).AssemblyInfo.cs
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H4-Form-(Gr)\obj\Debug\net8.0-windows\NTP-Ders-H4-Form-(Gr).csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H4-Form-(Gr)\obj\Debug\net8.0-windows\NTP-Ders-H4-Form-(Gr).dll
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H4-Form-(Gr)\obj\Debug\net8.0-windows\refint\NTP-Ders-H4-Form-(Gr).dll
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H4-Form-(Gr)\obj\Debug\net8.0-windows\NTP-Ders-H4-Form-(Gr).pdb
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H4-Form-(Gr)\obj\Debug\net8.0-windows\NTP-Ders-H4-Form-(Gr).genruntimeconfig.cache
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H4-Form-(Gr)\obj\Debug\net8.0-windows\ref\NTP-Ders-H4-Form-(Gr).dll

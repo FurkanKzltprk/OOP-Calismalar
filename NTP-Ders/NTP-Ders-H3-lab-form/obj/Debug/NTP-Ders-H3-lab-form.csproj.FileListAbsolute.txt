@@ -1,0 +1,10 @@
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H3-lab-form\bin\Debug\NTP-Ders-H3-lab-form.exe.config
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H3-lab-form\bin\Debug\NTP-Ders-H3-lab-form.exe
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H3-lab-form\bin\Debug\NTP-Ders-H3-lab-form.pdb
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H3-lab-form\obj\Debug\NTP-Ders-H3-lab-form.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H3-lab-form\obj\Debug\NTP_Ders_H3_lab_form.Form1.resources
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H3-lab-form\obj\Debug\NTP_Ders_H3_lab_form.Properties.Resources.resources
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H3-lab-form\obj\Debug\NTP-Ders-H3-lab-form.csproj.GenerateResource.cache
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H3-lab-form\obj\Debug\NTP-Ders-H3-lab-form.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H3-lab-form\obj\Debug\NTP-Ders-H3-lab-form.exe
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H3-lab-form\obj\Debug\NTP-Ders-H3-lab-form.pdb

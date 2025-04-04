@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NTP-H5-Form-ArabaGaleri/1.0.0": {
+        "runtime": {
+          "NTP-H5-Form-ArabaGaleri.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NTP-H5-Form-ArabaGaleri/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

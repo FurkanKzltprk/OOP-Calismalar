@@ -1,0 +1,7 @@
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H4-(Gr)\obj\Debug\NTP-Ders-H4-(Gr).csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H4-(Gr)\obj\Debug\NTP-Ders-H4-(Gr).csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H4-(Gr)\bin\Debug\NTP-Ders-H4-(Gr).exe.config
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H4-(Gr)\bin\Debug\NTP-Ders-H4-(Gr).exe
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H4-(Gr)\bin\Debug\NTP-Ders-H4-(Gr).pdb
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H4-(Gr)\obj\Debug\NTP-Ders-H4-(Gr).exe
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H4-(Gr)\obj\Debug\NTP-Ders-H4-(Gr).pdb

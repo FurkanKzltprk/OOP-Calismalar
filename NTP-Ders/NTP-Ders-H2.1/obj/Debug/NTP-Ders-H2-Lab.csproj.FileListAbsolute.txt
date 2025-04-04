@@ -1,0 +1,9 @@
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H2.1\bin\Debug\NTP-Ders-H2.1.exe.config
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H2.1\bin\Debug\NTP-Ders-H2.1.exe
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H2.1\bin\Debug\NTP-Ders-H2.1.pdb
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H2.1\obj\Debug\NTP-Ders-H2-Lab.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H2.1\obj\Debug\NTP-Ders-H2-Lab.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H2.1\obj\Debug\NTP-Ders-H2.1.exe
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H2.1\obj\Debug\NTP-Ders-H2.1.pdb
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H2.1\obj\Debug\NTP_Ders_H2._1.H2_Lab_Form.resources
+C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H2.1\obj\Debug\NTP-Ders-H2-Lab.csproj.GenerateResource.cache
