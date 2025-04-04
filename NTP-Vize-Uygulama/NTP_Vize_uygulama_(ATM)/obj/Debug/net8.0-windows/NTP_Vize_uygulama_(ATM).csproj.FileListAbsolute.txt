@@ -1,0 +1,16 @@
+D:\Course\AspNetCoreWebApi\Applications\NTP-Vize-Uygulama\NTP_Vize_uygulama_(ATM)\bin\Debug\net8.0-windows\NTP_Vize_uygulama_(ATM).exe
+D:\Course\AspNetCoreWebApi\Applications\NTP-Vize-Uygulama\NTP_Vize_uygulama_(ATM)\bin\Debug\net8.0-windows\NTP_Vize_uygulama_(ATM).deps.json
+D:\Course\AspNetCoreWebApi\Applications\NTP-Vize-Uygulama\NTP_Vize_uygulama_(ATM)\bin\Debug\net8.0-windows\NTP_Vize_uygulama_(ATM).runtimeconfig.json
+D:\Course\AspNetCoreWebApi\Applications\NTP-Vize-Uygulama\NTP_Vize_uygulama_(ATM)\bin\Debug\net8.0-windows\NTP_Vize_uygulama_(ATM).dll
+D:\Course\AspNetCoreWebApi\Applications\NTP-Vize-Uygulama\NTP_Vize_uygulama_(ATM)\bin\Debug\net8.0-windows\NTP_Vize_uygulama_(ATM).pdb
+D:\Course\AspNetCoreWebApi\Applications\NTP-Vize-Uygulama\NTP_Vize_uygulama_(ATM)\obj\Debug\net8.0-windows\NTP_Vize_uygulama__ATM_.Form1.resources
+D:\Course\AspNetCoreWebApi\Applications\NTP-Vize-Uygulama\NTP_Vize_uygulama_(ATM)\obj\Debug\net8.0-windows\NTP_Vize_uygulama_(ATM).csproj.GenerateResource.cache
+D:\Course\AspNetCoreWebApi\Applications\NTP-Vize-Uygulama\NTP_Vize_uygulama_(ATM)\obj\Debug\net8.0-windows\NTP_Vize_uygulama_(ATM).GeneratedMSBuildEditorConfig.editorconfig
+D:\Course\AspNetCoreWebApi\Applications\NTP-Vize-Uygulama\NTP_Vize_uygulama_(ATM)\obj\Debug\net8.0-windows\NTP_Vize_uygulama_(ATM).AssemblyInfoInputs.cache
+D:\Course\AspNetCoreWebApi\Applications\NTP-Vize-Uygulama\NTP_Vize_uygulama_(ATM)\obj\Debug\net8.0-windows\NTP_Vize_uygulama_(ATM).AssemblyInfo.cs
+D:\Course\AspNetCoreWebApi\Applications\NTP-Vize-Uygulama\NTP_Vize_uygulama_(ATM)\obj\Debug\net8.0-windows\NTP_Vize_uygulama_(ATM).csproj.CoreCompileInputs.cache
+D:\Course\AspNetCoreWebApi\Applications\NTP-Vize-Uygulama\NTP_Vize_uygulama_(ATM)\obj\Debug\net8.0-windows\NTP_Vize_uygulama_(ATM).dll
+D:\Course\AspNetCoreWebApi\Applications\NTP-Vize-Uygulama\NTP_Vize_uygulama_(ATM)\obj\Debug\net8.0-windows\refint\NTP_Vize_uygulama_(ATM).dll
+D:\Course\AspNetCoreWebApi\Applications\NTP-Vize-Uygulama\NTP_Vize_uygulama_(ATM)\obj\Debug\net8.0-windows\NTP_Vize_uygulama_(ATM).pdb
+D:\Course\AspNetCoreWebApi\Applications\NTP-Vize-Uygulama\NTP_Vize_uygulama_(ATM)\obj\Debug\net8.0-windows\NTP_Vize_uygulama_(ATM).genruntimeconfig.cache
+D:\Course\AspNetCoreWebApi\Applications\NTP-Vize-Uygulama\NTP_Vize_uygulama_(ATM)\obj\Debug\net8.0-windows\ref\NTP_Vize_uygulama_(ATM).dll

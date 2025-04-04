@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Course\\AspNetCoreWebApi\\Applications\\NTP-Vize-Uygulama\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{880D7E6E-C444-4C18-AB10-DC181E3D8472}|NTP_Vize_uygulama_(ATM)\\NTP_Vize_uygulama_(ATM).csproj|d:\\course\\aspnetcorewebapi\\applications\\ntp-vize-uygulama\\ntp_vize_uygulama_(atm)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880D7E6E-C444-4C18-AB10-DC181E3D8472}|NTP_Vize_uygulama_(ATM)\\NTP_Vize_uygulama_(ATM).csproj|solutionrelative:ntp_vize_uygulama_(atm)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880D7E6E-C444-4C18-AB10-DC181E3D8472}|NTP_Vize_uygulama_(ATM)\\NTP_Vize_uygulama_(ATM).csproj|d:\\course\\aspnetcorewebapi\\applications\\ntp-vize-uygulama\\ntp_vize_uygulama_(atm)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{880D7E6E-C444-4C18-AB10-DC181E3D8472}|NTP_Vize_uygulama_(ATM)\\NTP_Vize_uygulama_(ATM).csproj|solutionrelative:ntp_vize_uygulama_(atm)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Course\\AspNetCoreWebApi\\Applications\\NTP-Vize-Uygulama\\NTP_Vize_uygulama_(ATM)\\Form1.cs",
+              "RelativeDocumentMoniker": "NTP_Vize_uygulama_(ATM)\\Form1.cs",
+              "ToolTip": "D:\\Course\\AspNetCoreWebApi\\Applications\\NTP-Vize-Uygulama\\NTP_Vize_uygulama_(ATM)\\Form1.cs",
+              "RelativeToolTip": "NTP_Vize_uygulama_(ATM)\\Form1.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T17:11:23.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Course\\AspNetCoreWebApi\\Applications\\NTP-Vize-Uygulama\\NTP_Vize_uygulama_(ATM)\\Form1.cs",
+              "RelativeDocumentMoniker": "NTP_Vize_uygulama_(ATM)\\Form1.cs",
+              "ToolTip": "D:\\Course\\AspNetCoreWebApi\\Applications\\NTP-Vize-Uygulama\\NTP_Vize_uygulama_(ATM)\\Form1.cs [Design]",
+              "RelativeToolTip": "NTP_Vize_uygulama_(ATM)\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T17:07:25.391Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

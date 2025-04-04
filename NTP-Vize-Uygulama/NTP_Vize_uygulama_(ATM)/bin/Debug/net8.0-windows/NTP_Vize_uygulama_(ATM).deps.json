@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NTP_Vize_uygulama_(ATM)/1.0.0": {
+        "runtime": {
+          "NTP_Vize_uygulama_(ATM).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NTP_Vize_uygulama_(ATM)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
