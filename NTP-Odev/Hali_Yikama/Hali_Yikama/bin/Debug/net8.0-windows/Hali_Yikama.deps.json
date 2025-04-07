@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Hali_Yikama/1.0.0": {
+        "runtime": {
+          "Hali_Yikama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hali_Yikama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

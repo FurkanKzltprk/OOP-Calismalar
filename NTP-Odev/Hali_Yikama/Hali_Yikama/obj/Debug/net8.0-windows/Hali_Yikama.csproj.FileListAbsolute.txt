@@ -1,0 +1,16 @@
+C:\Users\Furkan\source\repos\Hali_Yikama\Hali_Yikama\bin\Debug\net8.0-windows\Hali_Yikama.exe
+C:\Users\Furkan\source\repos\Hali_Yikama\Hali_Yikama\bin\Debug\net8.0-windows\Hali_Yikama.deps.json
+C:\Users\Furkan\source\repos\Hali_Yikama\Hali_Yikama\bin\Debug\net8.0-windows\Hali_Yikama.runtimeconfig.json
+C:\Users\Furkan\source\repos\Hali_Yikama\Hali_Yikama\bin\Debug\net8.0-windows\Hali_Yikama.dll
+C:\Users\Furkan\source\repos\Hali_Yikama\Hali_Yikama\bin\Debug\net8.0-windows\Hali_Yikama.pdb
+C:\Users\Furkan\source\repos\Hali_Yikama\Hali_Yikama\obj\Debug\net8.0-windows\Hali_Yikama.Form1.resources
+C:\Users\Furkan\source\repos\Hali_Yikama\Hali_Yikama\obj\Debug\net8.0-windows\Hali_Yikama.csproj.GenerateResource.cache
+C:\Users\Furkan\source\repos\Hali_Yikama\Hali_Yikama\obj\Debug\net8.0-windows\Hali_Yikama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\source\repos\Hali_Yikama\Hali_Yikama\obj\Debug\net8.0-windows\Hali_Yikama.AssemblyInfoInputs.cache
+C:\Users\Furkan\source\repos\Hali_Yikama\Hali_Yikama\obj\Debug\net8.0-windows\Hali_Yikama.AssemblyInfo.cs
+C:\Users\Furkan\source\repos\Hali_Yikama\Hali_Yikama\obj\Debug\net8.0-windows\Hali_Yikama.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\Hali_Yikama\Hali_Yikama\obj\Debug\net8.0-windows\Hali_Yikama.dll
+C:\Users\Furkan\source\repos\Hali_Yikama\Hali_Yikama\obj\Debug\net8.0-windows\refint\Hali_Yikama.dll
+C:\Users\Furkan\source\repos\Hali_Yikama\Hali_Yikama\obj\Debug\net8.0-windows\Hali_Yikama.pdb
+C:\Users\Furkan\source\repos\Hali_Yikama\Hali_Yikama\obj\Debug\net8.0-windows\Hali_Yikama.genruntimeconfig.cache
+C:\Users\Furkan\source\repos\Hali_Yikama\Hali_Yikama\obj\Debug\net8.0-windows\ref\Hali_Yikama.dll

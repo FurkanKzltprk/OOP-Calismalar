@@ -1,0 +1,7 @@
+C:\Users\Furkan\source\repos\ArrayList_Odev\ArrayList_Odev\obj\Debug\ArrayList_Odev.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\ArrayList_Odev\ArrayList_Odev\obj\Debug\ArrayList_Odev.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\ArrayList_Odev\ArrayList_Odev\bin\Debug\ArrayList_Odev.exe.config
+C:\Users\Furkan\source\repos\ArrayList_Odev\ArrayList_Odev\bin\Debug\ArrayList_Odev.exe
+C:\Users\Furkan\source\repos\ArrayList_Odev\ArrayList_Odev\bin\Debug\ArrayList_Odev.pdb
+C:\Users\Furkan\source\repos\ArrayList_Odev\ArrayList_Odev\obj\Debug\ArrayList_Odev.exe
+C:\Users\Furkan\source\repos\ArrayList_Odev\ArrayList_Odev\obj\Debug\ArrayList_Odev.pdb
