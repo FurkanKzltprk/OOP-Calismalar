@@ -62,5 +62,9 @@ namespace Hali_Yikama
             Adres = adres;
             
         }
+        public override string ToString()
+        {
+            return $"{Id} {Ad}";  
+        }
     }
 }

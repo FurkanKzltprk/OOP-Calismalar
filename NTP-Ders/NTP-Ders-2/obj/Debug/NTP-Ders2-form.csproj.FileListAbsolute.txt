@@ -9,3 +9,14 @@ C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-2\obj\Debug\NTP-Ders2-form.csproj
 C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-2\obj\Debug\NTP-Ders-2.exe
 C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-2\obj\Debug\NTP-Ders-2.pdb
 C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-2\obj\Debug\NTP_Ders_2.Frm_Toplama.resources
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders-2\bin\Debug\NTP-Ders-2.exe.config
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders-2\bin\Debug\NTP-Ders-2.exe
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders-2\bin\Debug\NTP-Ders-2.pdb
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders-2\obj\Debug\NTP-Ders2-form.csproj.AssemblyReference.cache
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders-2\obj\Debug\NTP_Ders_2.Form1.resources
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders-2\obj\Debug\NTP_Ders_2.Frm_Toplama.resources
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders-2\obj\Debug\NTP_Ders_2.Properties.Resources.resources
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders-2\obj\Debug\NTP-Ders2-form.csproj.GenerateResource.cache
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders-2\obj\Debug\NTP-Ders2-form.csproj.CoreCompileInputs.cache
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders-2\obj\Debug\NTP-Ders-2.exe
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders-2\obj\Debug\NTP-Ders-2.pdb

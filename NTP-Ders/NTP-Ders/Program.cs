@@ -75,7 +75,7 @@ namespace NTP_Ders
             //-------------------------------------------------
 
             // klavyeden girilen stringteki kelime sayısını bulma
-
+            //!!
             /*string sentence;
             Console.Write("String gir : ");
             sentence = Console.ReadLine();

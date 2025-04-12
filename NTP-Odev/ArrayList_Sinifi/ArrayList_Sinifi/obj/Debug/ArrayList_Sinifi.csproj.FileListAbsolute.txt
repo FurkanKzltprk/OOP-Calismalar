@@ -1,0 +1,7 @@
+C:\Users\Furkan\source\repos\ArrayList_Sinifi\ArrayList_Sinifi\bin\Debug\ArrayList_Sinifi.exe.config
+C:\Users\Furkan\source\repos\ArrayList_Sinifi\ArrayList_Sinifi\bin\Debug\ArrayList_Sinifi.exe
+C:\Users\Furkan\source\repos\ArrayList_Sinifi\ArrayList_Sinifi\bin\Debug\ArrayList_Sinifi.pdb
+C:\Users\Furkan\source\repos\ArrayList_Sinifi\ArrayList_Sinifi\obj\Debug\ArrayList_Sinifi.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\ArrayList_Sinifi\ArrayList_Sinifi\obj\Debug\ArrayList_Sinifi.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\ArrayList_Sinifi\ArrayList_Sinifi\obj\Debug\ArrayList_Sinifi.exe
+C:\Users\Furkan\source\repos\ArrayList_Sinifi\ArrayList_Sinifi\obj\Debug\ArrayList_Sinifi.pdb

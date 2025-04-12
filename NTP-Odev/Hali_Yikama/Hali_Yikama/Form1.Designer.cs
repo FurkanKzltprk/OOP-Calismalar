@@ -236,7 +236,7 @@
             // 
             // btn_durum
             // 
-            btn_durum.Location = new Point(228, 176);
+            btn_durum.Location = new Point(238, 176);
             btn_durum.Name = "btn_durum";
             btn_durum.Size = new Size(361, 29);
             btn_durum.TabIndex = 1;

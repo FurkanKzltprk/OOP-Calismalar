@@ -4,6 +4,7 @@ namespace Hali_Yikama
     {
         List<Musteri> musteriler = new List<Musteri>();
         List<Hali> halilar = new List<Hali>();
+        string dosyaYolu = Path.Combine(Application.StartupPath,"Dosyalar","veriler.txt");
 
         public Form1()
         {
@@ -22,8 +23,102 @@ namespace Hali_Yikama
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            VerileriYukle();
             MusterileriYukle();
         }
+
+        private void VerileriKaydet()
+        {
+            // 1. Klasörü oluþtur (yoksa)
+            string klasorYolu = Path.Combine(Application.StartupPath, "Dosyalar");
+            if (!Directory.Exists(klasorYolu))
+            {
+                Directory.CreateDirectory(klasorYolu);
+            }
+
+            // 2. Dosya yolunu hazýrla
+            string dosyaYolu = Path.Combine(klasorYolu, "veriler.txt");
+
+            // 3. Yazma iþlemi
+            using (StreamWriter sw = new StreamWriter(dosyaYolu))
+            {
+                // Müþteriler bölümü
+                sw.WriteLine("[Musteri]");
+                foreach (var m in musteriler)
+                {
+                    sw.WriteLine($"{m.Id}|{m.Ad}|{m.TelNo}|{m.Adres}");
+                }
+
+                // Halýlar bölümü
+                sw.WriteLine("[Hali]");
+                foreach (var m in musteriler)
+                {
+                    foreach (var h in m.Halilar)
+                    {
+                        sw.WriteLine($"{h.Id}|{m.Id}|{h.Metrekare}|{h.AlimTarihi.ToShortDateString()}|{h.TeslimTarihi.ToShortDateString()}|{h.Durum}|{h.Ucret}");
+                    }
+                }
+            }
+        }
+
+        private void VerileriYukle()
+        {
+            // Dosya yolu belirle
+            string dosyaYolu = Path.Combine(Application.StartupPath, "Dosyalar", "veriler.txt");
+
+            // Dosya yoksa hiç uðraþma, geri dön
+            if (!File.Exists(dosyaYolu)) return;
+
+            string[] satirlar = File.ReadAllLines(dosyaYolu);
+            bool musteriKismi = false;
+            bool haliKismi = false;
+
+            foreach (string satir in satirlar)
+            {
+                if (satir == "[Musteri]") { musteriKismi = true; haliKismi = false; continue; }
+                if (satir == "[Hali]") { haliKismi = true; musteriKismi = false; continue; }
+
+                if (musteriKismi)
+                {
+                    var p = satir.Split('|');
+                    int id = int.Parse(p[0]);
+                    string ad = p[1];
+                    string tel = p[2];
+                    string adres = p[3];
+
+                    Musteri m = new Musteri(id, ad, tel, adres);
+                    musteriler.Add(m);
+                }
+                else if (haliKismi)
+                {
+                    var p = satir.Split('|');
+                    int haliId = int.Parse(p[0]);
+                    int musteriId = int.Parse(p[1]);
+                    double metrekare = double.Parse(p[2]);
+                    DateTime alim = DateTime.Parse(p[3]);
+                    DateTime teslim = DateTime.Parse(p[4]);
+                    string durum = p[5];
+
+                    Hali h = new Hali(haliId, metrekare, alim, teslim, durum);
+
+                    Musteri musteri = musteriler.FirstOrDefault(m => m.Id == musteriId);
+                    if (musteri != null)
+                    {
+                        h.MusteriAdi = musteri.Ad;
+                        musteri.Halilar.Add(h);
+                        halilar.Add(h);
+
+                        if (durum == "Yýkamada")
+                            lst_yýkamada.Items.Add(h);
+                        else
+                            lst_teslim.Items.Add(h);
+                    }
+                }
+            }
+
+            MusterileriYukle(); // ComboBox’ý güncelle
+        }
+
 
         //Form yüklendiðinde Musterileri aktif müþterileri ComboBox'a eklemek laýzm!!
         private void MusterileriYukle()
@@ -66,6 +161,8 @@ namespace Hali_Yikama
             txt_Adres.Clear();
 
             MessageBox.Show("Müþteri baþarýyla eklendi");
+
+            VerileriKaydet();
 
 
         }
@@ -119,6 +216,8 @@ namespace Hali_Yikama
 
             txt_metrekare.Clear();
             MessageBox.Show("Halý baþarýyla eklendi");
+
+            VerileriKaydet();
         }
 
         private void btn_durum_Click(object sender, EventArgs e)
@@ -136,6 +235,7 @@ namespace Hali_Yikama
             lst_teslim.Items.Add(secilenHali);
 
             MessageBox.Show("Halý durumu 'Teslim Edildi' olarak güncellendi");
+            VerileriKaydet();
         }
     }
 }

@@ -9,6 +9,8 @@ namespace Hali_Yikama
     internal class Hali
     {
         public int Id { get; set; }
+        public string MusteriAdi { get; set; }  // → Hangi müşteriye ait olduğunu göstermek için
+
 
         private double _metrekare;
 
@@ -57,24 +59,28 @@ namespace Hali_Yikama
         
         }
 
-        public double Ucret {
-            get
-            {
-                return Metrekare * 20;
-            } 
-            /*set metodu yok çünkü 20 tl varsayılan değer
-            otomatik hesaplanıyor */
-            
-        
-        }
+
+        public double Ucret => Metrekare * 20; //expression-bodied property aşağıdakinin kısa hali
+                                               //sadece read-only işlemlerde kullanılır yeni özellik!
+
+        /* public double Ucret { ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+             get
+             {
+                 return Metrekare * 20;
+             } 
+             set metodu yok çünkü 20 tl varsayılan değer
+             otomatik hesaplanıyor 
+
+
+         }*/
 
         /*halının bilgisini kolayca alabilmek için Form üzerinde bu metodu burada hazır 
         olarak yazdım */
-        public override string ToString()
+   
+        public Hali() // Dosyadan okuma yapabilmek için parametresiz bir ctor.
         {
-            return $" Halı ID: {Id} | m²: {Metrekare} | Ücret: {Ucret} TL | Durum: {Durum}";
-        }
 
+        }
 
 
         public Hali(int id, double metrekare,DateTime alimTarihi , DateTime teslimTarihi,string durum)
@@ -86,6 +92,11 @@ namespace Hali_Yikama
             Durum = durum;
             
         }
+        public override string ToString()
+        {
+            return $"[{MusteriAdi}] Halı ID: {Id} | m²: {Metrekare} | Ücret: {Ucret} TL | Durum: {Durum}";
+        }
+
 
     }
 }

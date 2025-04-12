@@ -40,6 +40,7 @@ namespace NTP_Ders_H2
             //-----------------------------------------------------------------
 
             //ToString() metoduyla Tip 
+
             //-----------------------------------------------------------------
 
             //bool a = true;
@@ -67,9 +68,9 @@ namespace NTP_Ders_H2
             //-----------------------------------------------------------------
 
             //byte b1 = 250;   // max boyutu 256 ~ işaretiyle tersini alıyoruz 
-            //                 // yani kendisi(b1) + tersi(b2) = 256 olmalı
+            //                 // yani kendisi(b1) + tersi(b2) = 255 olmalı
             //byte b2 = (byte)~b1;
-            //Console.WriteLine(b2); // sonuç : 5
+            //Console.WriteLine(b2); // sonuç : 5  
 
             //-----------------------------------------------------------------
 

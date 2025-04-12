@@ -36,7 +36,7 @@ namespace NTP_Ders_2
         private void EkraniAyarla()
         {
             txt_birincisayi.Text = txt_ikincisayi.Text = "0";
-            txt_birincisayi.Focus();
+            txt_birincisayi.Focus(); //Focus , program başlayınca oraya atar imleci
         }
         private Boolean Dogrula()
         {
@@ -79,6 +79,11 @@ namespace NTP_Ders_2
         private void ToplamaFormu_Shown(object sender, EventArgs e)
         {
             EkraniAyarla();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
