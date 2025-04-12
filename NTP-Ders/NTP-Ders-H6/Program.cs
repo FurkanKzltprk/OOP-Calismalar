@@ -128,7 +128,7 @@ namespace NTP_Ders_H6
                 Console.WriteLine(u["Ali"]); //büyük küçük harf kontrolü yapılabilir !!
 
 
-
+                //NTP derste yapılan uygulamalar.
 
             }
         }
