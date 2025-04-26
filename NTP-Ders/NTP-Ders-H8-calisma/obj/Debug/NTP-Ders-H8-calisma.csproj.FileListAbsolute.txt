@@ -1,0 +1,7 @@
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders-H8-calisma\bin\Debug\NTP-Ders-H8-calisma.exe.config
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders-H8-calisma\bin\Debug\NTP-Ders-H8-calisma.exe
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders-H8-calisma\bin\Debug\NTP-Ders-H8-calisma.pdb
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders-H8-calisma\obj\Debug\NTP-Ders-H8-calisma.csproj.AssemblyReference.cache
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders-H8-calisma\obj\Debug\NTP-Ders-H8-calisma.csproj.CoreCompileInputs.cache
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders-H8-calisma\obj\Debug\NTP-Ders-H8-calisma.exe
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders-H8-calisma\obj\Debug\NTP-Ders-H8-calisma.pdb

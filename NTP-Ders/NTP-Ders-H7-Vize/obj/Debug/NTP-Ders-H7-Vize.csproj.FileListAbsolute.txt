@@ -1,0 +1,7 @@
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders-H7-Vize\bin\Debug\NTP-Ders-H7-Vize.exe.config
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders-H7-Vize\bin\Debug\NTP-Ders-H7-Vize.exe
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders-H7-Vize\bin\Debug\NTP-Ders-H7-Vize.pdb
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders-H7-Vize\obj\Debug\NTP-Ders-H7-Vize.csproj.AssemblyReference.cache
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders-H7-Vize\obj\Debug\NTP-Ders-H7-Vize.csproj.CoreCompileInputs.cache
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders-H7-Vize\obj\Debug\NTP-Ders-H7-Vize.exe
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders-H7-Vize\obj\Debug\NTP-Ders-H7-Vize.pdb

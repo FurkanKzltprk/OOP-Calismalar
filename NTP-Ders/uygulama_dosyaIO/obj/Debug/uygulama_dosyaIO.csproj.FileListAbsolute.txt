@@ -1,0 +1,7 @@
+D:\OOP-Calismalar\NTP-Ders\uygulama_dosyaIO\bin\Debug\uygulama_dosyaIO.exe.config
+D:\OOP-Calismalar\NTP-Ders\uygulama_dosyaIO\bin\Debug\uygulama_dosyaIO.exe
+D:\OOP-Calismalar\NTP-Ders\uygulama_dosyaIO\bin\Debug\uygulama_dosyaIO.pdb
+D:\OOP-Calismalar\NTP-Ders\uygulama_dosyaIO\obj\Debug\uygulama_dosyaIO.csproj.AssemblyReference.cache
+D:\OOP-Calismalar\NTP-Ders\uygulama_dosyaIO\obj\Debug\uygulama_dosyaIO.csproj.CoreCompileInputs.cache
+D:\OOP-Calismalar\NTP-Ders\uygulama_dosyaIO\obj\Debug\uygulama_dosyaIO.exe
+D:\OOP-Calismalar\NTP-Ders\uygulama_dosyaIO\obj\Debug\uygulama_dosyaIO.pdb

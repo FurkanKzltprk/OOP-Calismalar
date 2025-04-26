@@ -1,0 +1,7 @@
+D:\OOP-Calismalar\NTP-Ders\NTP-ZZ-Karısık\bin\Debug\NTP-ZZ-Karısık.exe.config
+D:\OOP-Calismalar\NTP-Ders\NTP-ZZ-Karısık\bin\Debug\NTP-ZZ-Karısık.exe
+D:\OOP-Calismalar\NTP-Ders\NTP-ZZ-Karısık\bin\Debug\NTP-ZZ-Karısık.pdb
+D:\OOP-Calismalar\NTP-Ders\NTP-ZZ-Karısık\obj\Debug\NTP-ZZ-Karısık.csproj.AssemblyReference.cache
+D:\OOP-Calismalar\NTP-Ders\NTP-ZZ-Karısık\obj\Debug\NTP-ZZ-Karısık.csproj.CoreCompileInputs.cache
+D:\OOP-Calismalar\NTP-Ders\NTP-ZZ-Karısık\obj\Debug\NTP-ZZ-Karısık.exe
+D:\OOP-Calismalar\NTP-Ders\NTP-ZZ-Karısık\obj\Debug\NTP-ZZ-Karısık.pdb

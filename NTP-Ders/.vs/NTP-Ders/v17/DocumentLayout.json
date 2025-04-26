@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\OOP-Calismalar\\NTP-Ders\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CD76EDE-420C-4012-BC4B-296D3238AA72}|NTP-Ders-H6\\NTP-Ders-H6.csproj|d:\\oop-calismalar\\ntp-ders\\ntp-ders-h6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CD76EDE-420C-4012-BC4B-296D3238AA72}|NTP-Ders-H6\\NTP-Ders-H6.csproj|solutionrelative:ntp-ders-h6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED68C0B1-38A3-46B4-8F0C-3BB9CB82D7C9}|NTP-Ders-H8-calisma\\NTP-Ders-H8-calisma.csproj|d:\\oop-calismalar\\ntp-ders\\ntp-ders-h8-calisma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED68C0B1-38A3-46B4-8F0C-3BB9CB82D7C9}|NTP-Ders-H8-calisma\\NTP-Ders-H8-calisma.csproj|solutionrelative:ntp-ders-h8-calisma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B45460C-04E3-4EDC-AD01-F574BFF9396B}|NTP-DERS-H8\\NTP-Ders-H8.csproj|D:\\OOP-Calismalar\\NTP-Ders\\ntp-ders-h8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B45460C-04E3-4EDC-AD01-F574BFF9396B}|NTP-DERS-H8\\NTP-Ders-H8.csproj|solutionrelative:ntp-ders-h8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +18,79 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\OOP-Calismalar\\NTP-Ders\\NTP-Ders-H6\\Program.cs",
-              "RelativeDocumentMoniker": "NTP-Ders-H6\\Program.cs",
-              "ToolTip": "D:\\OOP-Calismalar\\NTP-Ders\\NTP-Ders-H6\\Program.cs",
-              "RelativeToolTip": "NTP-Ders-H6\\Program.cs",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAiwIgAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\OOP-Calismalar\\NTP-Ders\\NTP-Ders-H8-calisma\\Program.cs",
+              "RelativeDocumentMoniker": "NTP-Ders-H8-calisma\\Program.cs",
+              "ToolTip": "D:\\OOP-Calismalar\\NTP-Ders\\NTP-Ders-H8-calisma\\Program.cs",
+              "RelativeToolTip": "NTP-Ders-H8-calisma\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T05:44:13.998Z",
+              "WhenOpened": "2025-04-26T07:07:17.079Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OOP-Calismalar\\NTP-Ders\\NTP-DERS-H8\\Program.cs",
+              "RelativeDocumentMoniker": "NTP-DERS-H8\\Program.cs",
+              "ToolTip": "D:\\OOP-Calismalar\\NTP-Ders\\NTP-DERS-H8\\Program.cs",
+              "RelativeToolTip": "NTP-DERS-H8\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T07:24:22.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

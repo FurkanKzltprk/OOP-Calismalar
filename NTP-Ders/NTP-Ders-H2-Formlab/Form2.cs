@@ -42,7 +42,7 @@ namespace NTP_Ders_H2_Formlab
             for (int i = s.Length -1;i >= 0;i --)   // 0 ascii : 48 
             {
                 int rakam = Convert.ToInt32(s[i]-'0'); //ascii değeri gelmesin diye.
-                sonuc +=  + (int)(Math.Pow(2,us)*rakam);
+                sonuc +=  (int)(Math.Pow(2,us)*rakam);
                 us = us + 1;
 
             }

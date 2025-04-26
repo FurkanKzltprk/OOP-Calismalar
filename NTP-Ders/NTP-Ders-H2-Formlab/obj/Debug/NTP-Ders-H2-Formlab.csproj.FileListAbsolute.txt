@@ -9,3 +9,14 @@ C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H2-Formlab\obj\Debug\NTP-Ders-H2-
 C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H2-Formlab\obj\Debug\NTP-Ders-H2-Formlab.exe
 C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H2-Formlab\obj\Debug\NTP-Ders-H2-Formlab.pdb
 C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders-H2-Formlab\obj\Debug\NTP_Ders_H2_Formlab.Form2.resources
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders-H2-Formlab\bin\Debug\NTP-Ders-H2-Formlab.exe.config
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders-H2-Formlab\bin\Debug\NTP-Ders-H2-Formlab.exe
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders-H2-Formlab\bin\Debug\NTP-Ders-H2-Formlab.pdb
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders-H2-Formlab\obj\Debug\NTP-Ders-H2-Formlab.csproj.AssemblyReference.cache
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders-H2-Formlab\obj\Debug\NTP_Ders_H2_Formlab.Form1.resources
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders-H2-Formlab\obj\Debug\NTP_Ders_H2_Formlab.Form2.resources
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders-H2-Formlab\obj\Debug\NTP_Ders_H2_Formlab.Properties.Resources.resources
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders-H2-Formlab\obj\Debug\NTP-Ders-H2-Formlab.csproj.GenerateResource.cache
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders-H2-Formlab\obj\Debug\NTP-Ders-H2-Formlab.csproj.CoreCompileInputs.cache
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders-H2-Formlab\obj\Debug\NTP-Ders-H2-Formlab.exe
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders-H2-Formlab\obj\Debug\NTP-Ders-H2-Formlab.pdb

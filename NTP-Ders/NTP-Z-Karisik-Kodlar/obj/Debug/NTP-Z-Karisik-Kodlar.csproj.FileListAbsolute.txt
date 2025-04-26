@@ -1,0 +1,7 @@
+D:\OOP-Calismalar\NTP-Ders\NTP-Z-Karisik-Kodlar\bin\Debug\NTP-Z-Karisik-Kodlar.exe.config
+D:\OOP-Calismalar\NTP-Ders\NTP-Z-Karisik-Kodlar\bin\Debug\NTP-Z-Karisik-Kodlar.exe
+D:\OOP-Calismalar\NTP-Ders\NTP-Z-Karisik-Kodlar\bin\Debug\NTP-Z-Karisik-Kodlar.pdb
+D:\OOP-Calismalar\NTP-Ders\NTP-Z-Karisik-Kodlar\obj\Debug\NTP-Z-Karisik-Kodlar.csproj.AssemblyReference.cache
+D:\OOP-Calismalar\NTP-Ders\NTP-Z-Karisik-Kodlar\obj\Debug\NTP-Z-Karisik-Kodlar.csproj.CoreCompileInputs.cache
+D:\OOP-Calismalar\NTP-Ders\NTP-Z-Karisik-Kodlar\obj\Debug\NTP-Z-Karisik-Kodlar.exe
+D:\OOP-Calismalar\NTP-Ders\NTP-Z-Karisik-Kodlar\obj\Debug\NTP-Z-Karisik-Kodlar.pdb

@@ -123,13 +123,15 @@ namespace NTP_Ders_H6
                 uye u = new uye();
                 Console.WriteLine(u[0]);
                 u[1] = "Demet";
+                u[2] = "-55";
                 Console.WriteLine(u[1]);
-                Console.WriteLine(u[6]);
+                Console.WriteLine(u[2]);
+
                 Console.WriteLine(u["Ali"]); //büyük küçük harf kontrolü yapılabilir !!
 
 
                 //NTP derste yapılan uygulamalar.
-
+                
             }
         }
     }

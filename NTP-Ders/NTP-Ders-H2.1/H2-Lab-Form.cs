@@ -32,5 +32,10 @@ namespace NTP_Ders_H2._1
 
 
         }
+
+        private void H2_Lab_Form_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

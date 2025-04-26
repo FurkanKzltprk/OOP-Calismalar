@@ -31,7 +31,7 @@ namespace NTP_Ders_H3
             else
             {
                 foreach(int x in d){
-                    Console.WriteLine(x);
+                    Console.Write(x+", ");
                 }
             }
         }
@@ -83,11 +83,15 @@ namespace NTP_Ders_H3
             int[] d = { 1, 3, 5, 7, 8, 10, 13 };
             double o;
             int t = toplaort(d, out o);
-            Console.WriteLine("Toplam{0} ve ort : {1}" + " olur.", t, o);
+            Console.WriteLine("Toplam : {0} ve ort : {1}" + " olur.", t, o);
 
             yazdir();
+            Console.WriteLine();
             yazdir(1, 3, 4);
+            Console.WriteLine();
             yazdir(6);
+            Console.WriteLine();
+            yazdir(d);
             
 
         }

@@ -1,0 +1,4 @@
+Ali Veli,60,70
+Ayþe Yýlmaz,30,40
+Mehmet Can,80,90
+Fatma Nur,45,50

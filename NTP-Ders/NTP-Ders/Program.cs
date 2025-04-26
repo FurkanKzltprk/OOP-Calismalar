@@ -36,6 +36,7 @@ namespace NTP_Ders
 
              Console.WriteLine("{0} * {1} = {2}",number1,number2,product);
              Console.ReadLine();*/
+              
 
             //-------------------------------------------------
 

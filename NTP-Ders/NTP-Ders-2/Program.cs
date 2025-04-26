@@ -16,7 +16,7 @@ namespace NTP_Ders_2
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Frm_Toplama());
+            Application.Run(new Form1());
         }
     }
 }

@@ -89,6 +89,7 @@
             this.Controls.Add(this.btn_topla);
             this.Name = "H2_Lab_Form";
             this.Text = "H2_Lab_Form";
+            this.Load += new System.EventHandler(this.H2_Lab_Form_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

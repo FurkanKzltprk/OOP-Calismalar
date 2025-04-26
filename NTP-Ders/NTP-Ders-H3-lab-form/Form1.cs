@@ -41,6 +41,7 @@ namespace NTP_Ders_H3_lab_form
 
             string metin = txt_veri.Text;
             string temizMetin = "";
+            //string temizMetin2 = new string(metin.Where(c => !noktalama.Contains(c)).ToArray()); //alternatif kullanım
 
             foreach (char karakter in metin)
             {
@@ -61,6 +62,12 @@ namespace NTP_Ders_H3_lab_form
             }
 
             txt_temizveri.Text = temizMetin; // TextBox'a temizlenmiş metni geri yükle
+        }
+
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -88,9 +88,10 @@ namespace NTP_DERS_H3_Lab
             //benzerleri istenebilir
 
             Int64 x;
+            string path1 = "D:\\Text.txt";
             try
             {
-                StreamReader sr = new StreamReader("D:\\Text.txt");
+                StreamReader sr = new StreamReader(path1);
                 string line = sr.ReadLine();    
 
                 while (line != null)

@@ -23,12 +23,20 @@ namespace NTP_Ders_H2_Formlab
             button8.Click += button7_Click;
             button6.Click += button7_Click;
             button10.Click += button7_Click;
-            button11.Click += button7_Click;
+            button11.Click += button7_Click; //button11.Click = button11.Click + button7_Click
             button13.Click += button7_Click;
-            button14.Click += button7_Click; 
+            button14.Click += button7_Click;
             // burada buton isimleri saçma ama doğru çalışıyor dikkat et !!!
             //bağlama işlemi çok önemli dedi emre hoca 
             //ctro'un içerisinde bağladı.
+
+
+
+            //button7.Click = Delegate.Combine(button7.Click, new EventHandler(BenimMetodum));
+            //button7.Click += BenimMetodum; ✅  // Olay listesine ekler
+            //button7.Click -= BenimMetodum; ✅  // Olay listesinden çıkarır
+            //button7.Click = button7.Click + BenimMetodum; ❌  // Derleme hatası alırsın
+
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -60,8 +68,13 @@ namespace NTP_Ders_H2_Formlab
             {
                 sum = sum + (int)(s[i] -'0');  //asci kodlarından 0'ı çıkartınca gerçek değerini veriyor.
                                                //öenmli bilgi.
-                Form1.ActiveForm.Text = "rakamlar Toplamı:"+sum;  //??     // en üstteki formun ismi
+                Form1.ActiveForm.Text = "rakamlar Toplamı:"+sum;  //??   //En üstteki formun ismi
             }
+        }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
