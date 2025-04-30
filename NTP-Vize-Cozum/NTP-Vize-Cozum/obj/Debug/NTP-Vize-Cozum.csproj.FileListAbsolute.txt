@@ -1,0 +1,7 @@
+C:\Users\Furkan\source\repos\NTP-Vize-Cozum\NTP-Vize-Cozum\bin\Debug\NTP-Vize-Cozum.exe.config
+C:\Users\Furkan\source\repos\NTP-Vize-Cozum\NTP-Vize-Cozum\bin\Debug\NTP-Vize-Cozum.exe
+C:\Users\Furkan\source\repos\NTP-Vize-Cozum\NTP-Vize-Cozum\bin\Debug\NTP-Vize-Cozum.pdb
+C:\Users\Furkan\source\repos\NTP-Vize-Cozum\NTP-Vize-Cozum\obj\Debug\NTP-Vize-Cozum.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\NTP-Vize-Cozum\NTP-Vize-Cozum\obj\Debug\NTP-Vize-Cozum.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\NTP-Vize-Cozum\NTP-Vize-Cozum\obj\Debug\NTP-Vize-Cozum.exe
+C:\Users\Furkan\source\repos\NTP-Vize-Cozum\NTP-Vize-Cozum\obj\Debug\NTP-Vize-Cozum.pdb

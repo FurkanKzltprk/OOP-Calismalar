@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTP-Vize-s2", "NTP-Vize-Cozum\NTP-Vize-s2.csproj", "{575DF91A-CD4A-4B9D-AEA5-EFFC3A8103D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTP-Vize-s4", "NTP-Vize-s4\NTP-Vize-s4.csproj", "{E7321E11-44FE-423C-BD61-EE8343B3C828}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTP-Vize-s3", "NTP-Vize-s3\NTP-Vize-s3.csproj", "{C5436C2C-DD53-415F-BCB0-4E2165C2F88B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTP-Vize-s1", "NTP-Vize-s1\NTP-Vize-s1.csproj", "{C512EC11-41BB-411B-825E-A008941C1246}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{575DF91A-CD4A-4B9D-AEA5-EFFC3A8103D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{575DF91A-CD4A-4B9D-AEA5-EFFC3A8103D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{575DF91A-CD4A-4B9D-AEA5-EFFC3A8103D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{575DF91A-CD4A-4B9D-AEA5-EFFC3A8103D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7321E11-44FE-423C-BD61-EE8343B3C828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7321E11-44FE-423C-BD61-EE8343B3C828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7321E11-44FE-423C-BD61-EE8343B3C828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7321E11-44FE-423C-BD61-EE8343B3C828}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5436C2C-DD53-415F-BCB0-4E2165C2F88B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5436C2C-DD53-415F-BCB0-4E2165C2F88B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5436C2C-DD53-415F-BCB0-4E2165C2F88B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5436C2C-DD53-415F-BCB0-4E2165C2F88B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C512EC11-41BB-411B-825E-A008941C1246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C512EC11-41BB-411B-825E-A008941C1246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C512EC11-41BB-411B-825E-A008941C1246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C512EC11-41BB-411B-825E-A008941C1246}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\Furkan\source\repos\NTP-Vize-Cozum\NTP-Vize-s3\bin\Debug\net8.0-windows\NTP-Vize-s3.exe
+C:\Users\Furkan\source\repos\NTP-Vize-Cozum\NTP-Vize-s3\bin\Debug\net8.0-windows\NTP-Vize-s3.deps.json
+C:\Users\Furkan\source\repos\NTP-Vize-Cozum\NTP-Vize-s3\bin\Debug\net8.0-windows\NTP-Vize-s3.runtimeconfig.json
+C:\Users\Furkan\source\repos\NTP-Vize-Cozum\NTP-Vize-s3\bin\Debug\net8.0-windows\NTP-Vize-s3.dll
+C:\Users\Furkan\source\repos\NTP-Vize-Cozum\NTP-Vize-s3\bin\Debug\net8.0-windows\NTP-Vize-s3.pdb
+C:\Users\Furkan\source\repos\NTP-Vize-Cozum\NTP-Vize-s3\obj\Debug\net8.0-windows\NTP_Vize_s3.Form1.resources
+C:\Users\Furkan\source\repos\NTP-Vize-Cozum\NTP-Vize-s3\obj\Debug\net8.0-windows\NTP-Vize-s3.csproj.GenerateResource.cache
+C:\Users\Furkan\source\repos\NTP-Vize-Cozum\NTP-Vize-s3\obj\Debug\net8.0-windows\NTP-Vize-s3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\source\repos\NTP-Vize-Cozum\NTP-Vize-s3\obj\Debug\net8.0-windows\NTP-Vize-s3.AssemblyInfoInputs.cache
+C:\Users\Furkan\source\repos\NTP-Vize-Cozum\NTP-Vize-s3\obj\Debug\net8.0-windows\NTP-Vize-s3.AssemblyInfo.cs
+C:\Users\Furkan\source\repos\NTP-Vize-Cozum\NTP-Vize-s3\obj\Debug\net8.0-windows\NTP-Vize-s3.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\NTP-Vize-Cozum\NTP-Vize-s3\obj\Debug\net8.0-windows\NTP-Vize-s3.dll
+C:\Users\Furkan\source\repos\NTP-Vize-Cozum\NTP-Vize-s3\obj\Debug\net8.0-windows\refint\NTP-Vize-s3.dll
+C:\Users\Furkan\source\repos\NTP-Vize-Cozum\NTP-Vize-s3\obj\Debug\net8.0-windows\NTP-Vize-s3.pdb
+C:\Users\Furkan\source\repos\NTP-Vize-Cozum\NTP-Vize-s3\obj\Debug\net8.0-windows\NTP-Vize-s3.genruntimeconfig.cache
+C:\Users\Furkan\source\repos\NTP-Vize-Cozum\NTP-Vize-s3\obj\Debug\net8.0-windows\ref\NTP-Vize-s3.dll
