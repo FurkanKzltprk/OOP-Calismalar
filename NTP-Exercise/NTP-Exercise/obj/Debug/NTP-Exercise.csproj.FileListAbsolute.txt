@@ -1,0 +1,7 @@
+C:\Users\Furkan\source\repos\NTP-Exercise\NTP-Exercise\bin\Debug\NTP-Exercise.exe.config
+C:\Users\Furkan\source\repos\NTP-Exercise\NTP-Exercise\bin\Debug\NTP-Exercise.exe
+C:\Users\Furkan\source\repos\NTP-Exercise\NTP-Exercise\bin\Debug\NTP-Exercise.pdb
+C:\Users\Furkan\source\repos\NTP-Exercise\NTP-Exercise\obj\Debug\NTP-Exercise.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\NTP-Exercise\NTP-Exercise\obj\Debug\NTP-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\NTP-Exercise\NTP-Exercise\obj\Debug\NTP-Exercise.exe
+C:\Users\Furkan\source\repos\NTP-Exercise\NTP-Exercise\obj\Debug\NTP-Exercise.pdb

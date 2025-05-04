@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\OOP-Calismalar\\NTP-Ders\\",
+  "WorkspaceRootPath": "C:\\Users\\Furkan\\source\\repos\\NTP-Exercise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED68C0B1-38A3-46B4-8F0C-3BB9CB82D7C9}|NTP-Ders-H8-calisma\\NTP-Ders-H8-calisma.csproj|d:\\oop-calismalar\\ntp-ders\\ntp-ders-h8-calisma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED68C0B1-38A3-46B4-8F0C-3BB9CB82D7C9}|NTP-Ders-H8-calisma\\NTP-Ders-H8-calisma.csproj|solutionrelative:ntp-ders-h8-calisma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70681CEC-156F-4888-B187-BD802AA495DF}|NTP-Exercise-ex1\\NTP-Exercise-ex1.csproj|c:\\users\\furkan\\source\\repos\\ntp-exercise\\ntp-exercise-ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70681CEC-156F-4888-B187-BD802AA495DF}|NTP-Exercise-ex1\\NTP-Exercise-ex1.csproj|solutionrelative:ntp-exercise-ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B45460C-04E3-4EDC-AD01-F574BFF9396B}|NTP-DERS-H8\\NTP-Ders-H8.csproj|D:\\OOP-Calismalar\\NTP-Ders\\ntp-ders-h8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B45460C-04E3-4EDC-AD01-F574BFF9396B}|NTP-DERS-H8\\NTP-Ders-H8.csproj|solutionrelative:ntp-ders-h8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6203013-A05B-463C-B1BB-68954C31597E}|NTP-Exercise\\NTP-Exercise.csproj|c:\\users\\furkan\\source\\repos\\ntp-exercise\\ntp-exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6203013-A05B-463C-B1BB-68954C31597E}|NTP-Exercise\\NTP-Exercise.csproj|solutionrelative:ntp-exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -60,26 +60,27 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\OOP-Calismalar\\NTP-Ders\\NTP-Ders-H8-calisma\\Program.cs",
-              "RelativeDocumentMoniker": "NTP-Ders-H8-calisma\\Program.cs",
-              "ToolTip": "D:\\OOP-Calismalar\\NTP-Ders\\NTP-Ders-H8-calisma\\Program.cs",
-              "RelativeToolTip": "NTP-Ders-H8-calisma\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAsAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Furkan\\source\\repos\\NTP-Exercise\\NTP-Exercise-ex1\\Program.cs",
+              "RelativeDocumentMoniker": "NTP-Exercise-ex1\\Program.cs",
+              "ToolTip": "C:\\Users\\Furkan\\source\\repos\\NTP-Exercise\\NTP-Exercise-ex1\\Program.cs",
+              "RelativeToolTip": "NTP-Exercise-ex1\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAJgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T07:07:17.079Z",
+              "WhenOpened": "2025-05-04T09:48:45.06Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\OOP-Calismalar\\NTP-Ders\\NTP-DERS-H8\\Program.cs",
-              "RelativeDocumentMoniker": "NTP-DERS-H8\\Program.cs",
-              "ToolTip": "D:\\OOP-Calismalar\\NTP-Ders\\NTP-DERS-H8\\Program.cs",
-              "RelativeToolTip": "NTP-DERS-H8\\Program.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAswD0AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Furkan\\source\\repos\\NTP-Exercise\\NTP-Exercise\\Program.cs",
+              "RelativeDocumentMoniker": "NTP-Exercise\\Program.cs",
+              "ToolTip": "C:\\Users\\Furkan\\source\\repos\\NTP-Exercise\\NTP-Exercise\\Program.cs",
+              "RelativeToolTip": "NTP-Exercise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T07:24:22.561Z"
+              "WhenOpened": "2025-05-04T09:06:24.147Z",
+              "EditorCaption": ""
             }
           ]
         },
