@@ -43,13 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ICalisabilen.cs" />
-    <Compile Include="Satisci.cs" />
-    <Compile Include="Mudur.cs" />
-    <Compile Include="Ogretmen.cs" />
+    <Compile Include="Senaryo1\ICalisabilen.cs" />
+    <Compile Include="Senaryo1\Satisci.cs" />
+    <Compile Include="Senaryo1\Mudur.cs" />
+    <Compile Include="Senaryo1\Ogretmen.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Uygula.cs" />
+    <Compile Include="Senaryo2\ICalisabilen2.cs" />
+    <Compile Include="Senaryo2\Kisi.cs" />
+    <Compile Include="Senaryo2\Mudur2.cs" />
+    <Compile Include="Senaryo2\Ogretmen2.cs" />
+    <Compile Include="Senaryo2\Satisci2.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
