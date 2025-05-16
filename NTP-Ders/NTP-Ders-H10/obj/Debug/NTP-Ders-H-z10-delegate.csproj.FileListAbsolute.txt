@@ -1,7 +1,0 @@
-D:\OOP-Calismalar\NTP-Ders\NTP-Ders-H10\bin\Debug\NTP-Ders-H10.exe.config
-D:\OOP-Calismalar\NTP-Ders\NTP-Ders-H10\bin\Debug\NTP-Ders-H10.exe
-D:\OOP-Calismalar\NTP-Ders\NTP-Ders-H10\bin\Debug\NTP-Ders-H10.pdb
-D:\OOP-Calismalar\NTP-Ders\NTP-Ders-H10\obj\Debug\NTP-Ders-H-z10-delegate.csproj.AssemblyReference.cache
-D:\OOP-Calismalar\NTP-Ders\NTP-Ders-H10\obj\Debug\NTP-Ders-H-z10-delegate.csproj.CoreCompileInputs.cache
-D:\OOP-Calismalar\NTP-Ders\NTP-Ders-H10\obj\Debug\NTP-Ders-H10.exe
-D:\OOP-Calismalar\NTP-Ders\NTP-Ders-H10\obj\Debug\NTP-Ders-H10.pdb
