@@ -26,24 +26,37 @@ namespace NTP_Ders9_I
 
         class Kopek : IHayvan
         {
-            public void sesCikar() 
-            
+            public void sesCikar()
+
             {
-                Console.WriteLine("Anlar arkadan havlar lar lar lar hav hav hav");
+                Console.WriteLine("Onlar arkadan havlar lar lar lar hav hav hav");
 
             }
-            
+
         }
+
+     
+
+
+
+
         static void Main(string[] args)
         {
 
 
-            
-            Kedi kedi = new Kedi();
-            kedi.sesCikar();
 
-            IHayvan hayvan = new Kopek();
-            hayvan.sesCikar();
+            //Kedi kedi = new Kedi();
+            //kedi.sesCikar();
+
+            //IHayvan hayvan = new Kopek();
+            //hayvan.sesCikar();
+
+            Mudur m = new Mudur();
+            Console.WriteLine( m.Calis());
+            Ogretmen ogr = new Ogretmen();
+            Console.WriteLine(ogr.Calis()); 
+            Satisci st = new Satisci();
+            Console.WriteLine(st.Calis());
 
 
 
