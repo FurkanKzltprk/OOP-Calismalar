@@ -1,0 +1,7 @@
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders9-I\bin\Debug\NTP-Ders9-I.exe.config
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders9-I\bin\Debug\NTP-Ders9-I.exe
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders9-I\bin\Debug\NTP-Ders9-I.pdb
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders9-I\obj\Debug\NTP-Ders-H9-I.csproj.AssemblyReference.cache
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders9-I\obj\Debug\NTP-Ders-H9-I.csproj.CoreCompileInputs.cache
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders9-I\obj\Debug\NTP-Ders9-I.exe
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders9-I\obj\Debug\NTP-Ders9-I.pdb
