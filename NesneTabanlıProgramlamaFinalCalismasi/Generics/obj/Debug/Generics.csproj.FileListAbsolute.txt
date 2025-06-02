@@ -1,0 +1,7 @@
+C:\Users\Furkan\source\repos\NesneTabanlıProgramlamaFinalCalismasi\Generics\bin\Debug\Generics.exe.config
+C:\Users\Furkan\source\repos\NesneTabanlıProgramlamaFinalCalismasi\Generics\bin\Debug\Generics.exe
+C:\Users\Furkan\source\repos\NesneTabanlıProgramlamaFinalCalismasi\Generics\bin\Debug\Generics.pdb
+C:\Users\Furkan\source\repos\NesneTabanlıProgramlamaFinalCalismasi\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\NesneTabanlıProgramlamaFinalCalismasi\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\NesneTabanlıProgramlamaFinalCalismasi\Generics\obj\Debug\Generics.exe
+C:\Users\Furkan\source\repos\NesneTabanlıProgramlamaFinalCalismasi\Generics\obj\Debug\Generics.pdb

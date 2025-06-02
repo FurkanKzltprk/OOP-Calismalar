@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NesneTabanlıProgramlamaFinalCalismasi", "NesneTabanlıProgramlamaFinalCalismasi\NesneTabanlıProgramlamaFinalCalismasi.csproj", "{1F2491A5-FA85-4C52-85A3-C40C5D4439BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{B66C7E7B-783D-495A-87BC-8790921B8369}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{31904B0C-0FA1-4F72-BB23-BE2335086176}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F2491A5-FA85-4C52-85A3-C40C5D4439BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F2491A5-FA85-4C52-85A3-C40C5D4439BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F2491A5-FA85-4C52-85A3-C40C5D4439BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F2491A5-FA85-4C52-85A3-C40C5D4439BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B66C7E7B-783D-495A-87BC-8790921B8369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B66C7E7B-783D-495A-87BC-8790921B8369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B66C7E7B-783D-495A-87BC-8790921B8369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B66C7E7B-783D-495A-87BC-8790921B8369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31904B0C-0FA1-4F72-BB23-BE2335086176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31904B0C-0FA1-4F72-BB23-BE2335086176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31904B0C-0FA1-4F72-BB23-BE2335086176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31904B0C-0FA1-4F72-BB23-BE2335086176}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
