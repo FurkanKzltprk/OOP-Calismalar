@@ -38,9 +38,6 @@ namespace NTP_Ders9_I
 
      
 
-
-
-
         static void Main(string[] args)
         {
 
@@ -75,6 +72,10 @@ namespace NTP_Ders9_I
             Console.WriteLine(ogr2.BilgiGoster());
             st2.isim = "2.Satisci";
             Console.WriteLine(st2.BilgiGoster());
+
+            Console.WriteLine("************************");
+            Console.WriteLine("************************");
+
 
 
 

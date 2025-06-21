@@ -5,3 +5,10 @@ C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders\obj\Debug\NTP-Ders1-console.cspro
 C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders\obj\Debug\NTP-Ders1-console.csproj.CoreCompileInputs.cache
 C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders\obj\Debug\NTP-Ders.exe
 C:\Users\Furkan\source\repos\NTP-Ders\NTP-Ders\obj\Debug\NTP-Ders.pdb
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders\bin\Debug\NTP-Ders.exe.config
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders\bin\Debug\NTP-Ders.exe
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders\bin\Debug\NTP-Ders.pdb
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders\obj\Debug\NTP-Ders1-console.csproj.AssemblyReference.cache
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders\obj\Debug\NTP-Ders1-console.csproj.CoreCompileInputs.cache
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders\obj\Debug\NTP-Ders.exe
+D:\OOP-Calismalar\NTP-Ders\NTP-Ders\obj\Debug\NTP-Ders.pdb

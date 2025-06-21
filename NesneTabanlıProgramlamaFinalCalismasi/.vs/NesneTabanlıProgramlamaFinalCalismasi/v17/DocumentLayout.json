@@ -3,11 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\Furkan\\source\\repos\\NesneTabanl\u0131ProgramlamaFinalCalismasi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31904B0C-0FA1-4F72-BB23-BE2335086176}|Generics\\Generics.csproj|c:\\users\\furkan\\source\\repos\\nesnetabanl\u0131programlamafinalcalismasi\\generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20072AE0-A3F0-4C69-B85D-DE0D9087A35F}|PratiklerMix\\PratiklerMix.csproj|c:\\users\\furkan\\source\\repos\\nesnetabanl\u0131programlamafinalcalismasi\\pratiklermix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20072AE0-A3F0-4C69-B85D-DE0D9087A35F}|PratiklerMix\\PratiklerMix.csproj|solutionrelative:pratiklermix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F4C0B0-4CE9-4995-8EFE-3F5F61879E1C}|AbstractInterfaceKullanimiSoru\\AbstractInterfaceKullanimiSoru.csproj|c:\\users\\furkan\\source\\repos\\nesnetabanl\u0131programlamafinalcalismasi\\abstractinterfacekullanimisoru\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F4C0B0-4CE9-4995-8EFE-3F5F61879E1C}|AbstractInterfaceKullanimiSoru\\AbstractInterfaceKullanimiSoru.csproj|solutionrelative:abstractinterfacekullanimisoru\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45844E31-3994-488D-9D9A-8D9A3F95AF81}|Delegates\\Delegates.csproj|C:\\Users\\Furkan\\source\\repos\\NesneTabanl\u0131ProgramlamaFinalCalismasi\\delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45844E31-3994-488D-9D9A-8D9A3F95AF81}|Delegates\\Delegates.csproj|solutionrelative:delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31904B0C-0FA1-4F72-BB23-BE2335086176}|Generics\\Generics.csproj|C:\\Users\\Furkan\\source\\repos\\NesneTabanl\u0131ProgramlamaFinalCalismasi\\generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31904B0C-0FA1-4F72-BB23-BE2335086176}|Generics\\Generics.csproj|solutionrelative:generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B66C7E7B-783D-495A-87BC-8790921B8369}|LINQ\\LINQ.csproj|c:\\users\\furkan\\source\\repos\\nesnetabanl\u0131programlamafinalcalismasi\\linq\\ornek2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B66C7E7B-783D-495A-87BC-8790921B8369}|LINQ\\LINQ.csproj|C:\\Users\\Furkan\\source\\repos\\NesneTabanl\u0131ProgramlamaFinalCalismasi\\linq\\ornek2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B66C7E7B-783D-495A-87BC-8790921B8369}|LINQ\\LINQ.csproj|solutionrelative:linq\\ornek2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -68,31 +80,71 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Furkan\\source\\repos\\NesneTabanl\u0131ProgramlamaFinalCalismasi\\Generics\\Program.cs",
-              "RelativeDocumentMoniker": "Generics\\Program.cs",
-              "ToolTip": "C:\\Users\\Furkan\\source\\repos\\NesneTabanl\u0131ProgramlamaFinalCalismasi\\Generics\\Program.cs",
-              "RelativeToolTip": "Generics\\Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAADwv0AAAABAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Furkan\\source\\repos\\NesneTabanl\u0131ProgramlamaFinalCalismasi\\PratiklerMix\\Program.cs",
+              "RelativeDocumentMoniker": "PratiklerMix\\Program.cs",
+              "ToolTip": "C:\\Users\\Furkan\\source\\repos\\NesneTabanl\u0131ProgramlamaFinalCalismasi\\PratiklerMix\\Program.cs",
+              "RelativeToolTip": "PratiklerMix\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T06:12:41.312Z",
+              "WhenOpened": "2025-06-21T13:29:10.434Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\source\\repos\\NesneTabanl\u0131ProgramlamaFinalCalismasi\\AbstractInterfaceKullanimiSoru\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractInterfaceKullanimiSoru\\Program.cs",
+              "ToolTip": "C:\\Users\\Furkan\\source\\repos\\NesneTabanl\u0131ProgramlamaFinalCalismasi\\AbstractInterfaceKullanimiSoru\\Program.cs",
+              "RelativeToolTip": "AbstractInterfaceKullanimiSoru\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:01:16.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\source\\repos\\NesneTabanl\u0131ProgramlamaFinalCalismasi\\Delegates\\Program.cs",
+              "RelativeDocumentMoniker": "Delegates\\Program.cs",
+              "ToolTip": "C:\\Users\\Furkan\\source\\repos\\NesneTabanl\u0131ProgramlamaFinalCalismasi\\Delegates\\Program.cs",
+              "RelativeToolTip": "Delegates\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T07:50:32.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Furkan\\source\\repos\\NesneTabanl\u0131ProgramlamaFinalCalismasi\\Generics\\Program.cs",
+              "RelativeDocumentMoniker": "Generics\\Program.cs",
+              "ToolTip": "C:\\Users\\Furkan\\source\\repos\\NesneTabanl\u0131ProgramlamaFinalCalismasi\\Generics\\Program.cs",
+              "RelativeToolTip": "Generics\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswEYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T06:12:41.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ornek2.cs",
               "DocumentMoniker": "C:\\Users\\Furkan\\source\\repos\\NesneTabanl\u0131ProgramlamaFinalCalismasi\\LINQ\\ornek2.cs",
               "RelativeDocumentMoniker": "LINQ\\ornek2.cs",
               "ToolTip": "C:\\Users\\Furkan\\source\\repos\\NesneTabanl\u0131ProgramlamaFinalCalismasi\\LINQ\\ornek2.cs",
               "RelativeToolTip": "LINQ\\ornek2.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBsAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T16:47:36.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-01T16:47:36.71Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Furkan\\source\\repos\\NesneTabanl\u0131ProgramlamaFinalCalismasi\\LINQ\\Program.cs",
               "RelativeDocumentMoniker": "LINQ\\Program.cs",
@@ -104,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Furkan\\source\\repos\\NesneTabanl\u0131ProgramlamaFinalCalismasi\\NesneTabanl\u0131ProgramlamaFinalCalismasi\\Program.cs",
               "RelativeDocumentMoniker": "NesneTabanl\u0131ProgramlamaFinalCalismasi\\Program.cs",

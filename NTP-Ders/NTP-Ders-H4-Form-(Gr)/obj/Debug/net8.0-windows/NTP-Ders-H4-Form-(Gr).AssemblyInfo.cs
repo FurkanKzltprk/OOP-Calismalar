@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NTP-Ders-H4-Form-(Gr)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+444495c025378c50d9fe10bbfbfd9a1c31c75e36")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43248f701c1905db5e05d8b34a435dd9b1aa8960")]
 [assembly: System.Reflection.AssemblyProductAttribute("NTP-Ders-H4-Form-(Gr)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NTP-Ders-H4-Form-(Gr)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

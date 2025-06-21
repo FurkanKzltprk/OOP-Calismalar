@@ -54,63 +54,19 @@ namespace Generics
         static void Main(string[] args)
         {
 
-            List<string> isimler = new List<string> { "Ali", "Ayşe", "Mehmet", "Zeynep", "Murat" };
+            //List<string> isimler = new List<string> { "Ali", "Ayşe", "Mehmet", "Zeynep", "Murat" };
 
-            var eGecenler = isimler.FindAll(s => s.Contains("e"));
-            Console.WriteLine("E harfi içerenler");
+            //var eGecenler = isimler.FindAll(s => s.Contains("e"));
+            //Console.WriteLine("E harfi içerenler");
 
-            foreach (var e in eGecenler) { Console.WriteLine(e); }
+            //foreach (var e in eGecenler) { Console.WriteLine(e); }
 
-            isimler.Sort();
-            Console.WriteLine("Alfabetik sıralama");
-            foreach (var e in isimler) { Console.WriteLine(e); }
-
-
+            //isimler.Sort();
+            //Console.WriteLine("Alfabetik sıralama");
+            //foreach (var e in isimler) { Console.WriteLine(e); }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            //List<int> a = new List<int>();
+           //List<int> a = new List<int>();
 
             //a.Add(1);
             //a.Add(2);
