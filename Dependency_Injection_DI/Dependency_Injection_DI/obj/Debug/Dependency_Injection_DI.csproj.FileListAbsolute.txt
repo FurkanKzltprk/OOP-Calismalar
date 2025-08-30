@@ -1,0 +1,7 @@
+C:\Users\Furkan\source\repos\Dependency_Injection_DI\Dependency_Injection_DI\bin\Debug\Dependency_Injection_DI.exe.config
+C:\Users\Furkan\source\repos\Dependency_Injection_DI\Dependency_Injection_DI\bin\Debug\Dependency_Injection_DI.exe
+C:\Users\Furkan\source\repos\Dependency_Injection_DI\Dependency_Injection_DI\bin\Debug\Dependency_Injection_DI.pdb
+C:\Users\Furkan\source\repos\Dependency_Injection_DI\Dependency_Injection_DI\obj\Debug\Dependency_Injection_DI.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\Dependency_Injection_DI\Dependency_Injection_DI\obj\Debug\Dependency_Injection_DI.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\Dependency_Injection_DI\Dependency_Injection_DI\obj\Debug\Dependency_Injection_DI.exe
+C:\Users\Furkan\source\repos\Dependency_Injection_DI\Dependency_Injection_DI\obj\Debug\Dependency_Injection_DI.pdb
